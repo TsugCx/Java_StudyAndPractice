@@ -11,6 +11,9 @@ public class Aula02_TiposPrimitivos {
         short ageShort = 10;
         char caractere = 'A';
 
+        int hexVal = 0x1a;
+        int binVal = 0b11010;
+
         System.out.println("A idade e " + age);
     }
 }
